@@ -1,0 +1,15 @@
+{
+  "originHash" : "7deb6cba891e73e59685240d9f86fe38accd33fce95bab582ba3eba8e447b20c",
+  "pins" : [
+    {
+      "identity" : "taashirautility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AhmadHemeda/TaashiraUtility.git",
+      "state" : {
+        "revision" : "2ebabaf95536e1c75a49fe67c62e65745d0bbf34",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
